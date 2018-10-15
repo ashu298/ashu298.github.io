@@ -163,31 +163,31 @@ Weather, Distance and Your_IP.
   <tr>
     <td class="tg-0pky">Neural Networks and Deep Learning</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_neural_networks_NSLLPHB73CK8.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/Certificates/udemycertificate.jpg"  width="100"></img></td>
+    <td class="tg-0pky"><img src="static/nn.jpg"  width="100"></td>
     <td class="tg-0pky">NSLLPHB73CK8<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">Hyperparameter tuning, Regularization<br>and Optimization</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_improving_98D2WX2TEW3S.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/Certificates/udemycertificate.jpg"  width="100"></img><br></td>
+    <td class="tg-0pky"><img src="static/hyper.jpg"  width="100"><br></td>
     <td class="tg-0pky">98D2WX2TEW3S</td>
   </tr>
   <tr>
     <td class="tg-0pky">Structuring Machine Learning Projects</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_Structuring_Machine_Learning_Projects_CPRG2V273V8W.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/Certificates/udemycertificate.jpg"  width="100"></img></td>
+    <td class="tg-0pky"><img src="static/structure.jpg"  width="100"></td>
     <td class="tg-0pky">CPRG2V273V8W</td>
   </tr>
   <tr>
     <td class="tg-0pky">Sequence Models</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_sequencemodels_EENSCYPMD9NN.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/Certificates/udemycertificate.jpg"  width="100"></td>
+    <td class="tg-0pky"><img src="static/seq.jpg"  width="100"></td>
     <td class="tg-0pky">EENSCYPMD9NN</td>
   </tr>
   <tr>
     <td class="tg-0pky">Feature Engineering</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static/Certificates/Coursera_feature_engineering_NW9PUATT9BB3.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/feature.jpg"  width="100"></img></td>
+    <td class="tg-0pky"><img src="static/feature.jpg"  width="100"></td>
     <td class="tg-0pky">NW9PUATT9BB3</td>
   </tr>
   <tr>
@@ -198,12 +198,8 @@ Weather, Distance and Your_IP.
   </tr>
 </table>
 ### B. Udemy        
-<img src="static/Certificates/udemycertificate.jpg"  width="400">
+<img src="static/Certificates/udemycertificate.jpg"  width="200">
 
-### new
-<img src="static/Certificates/udemycertificate.jpg"  width="400">
-
-<img src="static/feature.jpg" width=200></img>
 
 ## Accomplishments
 
