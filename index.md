@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ashutosh Mishra [![HitCount](http://hits.dwyl.io/ASH1998/ash1998.github.io.svg)](http://hits.dwyl.io/ASH1998/ash1998.github.io)   
 <img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Flowers in Chania" width="100">   
 I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.   
@@ -6,11 +5,6 @@ Contact :
 - MahavirNagar, Bhubaneshwar, Odisha
 - Phone : (+91)8018-642428    
 - Email : [prog.mishra@gmail.com](prog.mishra@gmail.com)
-=======
-## Ashutosh Mishra [![](http://hits.dwyl.io/ASH1998/ash1998.github.io.svg)](http://hits.dwyl.io/ASH1998/ash1998.github.io)   
-<img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Ashutosh" width="100">   
-I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.
->>>>>>> 2356c14428a9f066382a27d7779448b8d1fccdb7
 
 ## Social Media
 [![](https://img.shields.io/badge/Github-ASH1998-brightgreen.svg)](https://github.com/ASH1998) [![](https://img.shields.io/badge/Quora-Ashutosh-red.svg)](https://www.quora.com/profile/Ashutosh-Mishra-361) [![](https://img.shields.io/badge/LinkedIN-Ashutosh-blue.svg)](https://www.linkedin.com/in/ashutosh-mishra-a1ba01142/) [![](https://img.shields.io/badge/Kaggle-ashutosh1998-%2300FFFF.svg)](https://www.kaggle.com/ashutoshmishra1998) [![](https://img.shields.io/badge/StackOverflow-Ashutosh-orange.svg)](https://stackoverflow.com/users/7454706/ashutosh-mishra)
@@ -83,34 +77,34 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
 ### 1. Unique Doodle Generation
 - Generating new doodle images for different images using Generative Adversarial Networks.
 - Tech : `Python` , `Deep Learning`, `GANs`
-- [Github](https://github.com/ASH1998/Doodle-gan) | [Site Link](https://ash1998.github.io/Doodle-gan/)
+- [Github](https://github.com/ASH1998/Doodle-gan) and [Site Link](https://ash1998.github.io/Doodle-gan/)
 
 ### 2. Deep Representation of Textual descriptions
 - Generating images from text descriptions using Attention-GAN and Stack-GAN.
 - Tech : `Python` , `Deep Learning`, `AttnGAN`, `StackGAN`,   `Image Processing`
-- [Github](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions) | [Site Link](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
+- [Github](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions) and [Site Link](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
 
 ### 3. Face_eyes_smile-detection
 -  OpenCV application for face, eyes, smile detection. Building MSI/.exe for windows.
 - Tech : `Python` , `OpenCV`, `cx-freeze`
-- [Github](https://github.com/ASH1998/Face_eyes_smile-detection) | [Site Link](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
+- [Github](https://github.com/ASH1998/Face_eyes_smile-detection) and [Site Link](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
 
 ### 4. Image Caption Generator
 - Generate Captions for images using VGG16 network.
 - Tech : `Python` , `Deep Learning`, `torch`, `bi-CNN`
-- [Github](https://github.com/ASH1998/Image-Caption-Generator) | [Site Link](https://ash1998.github.io/Doodle-gan/)
+- [Github](https://github.com/ASH1998/Image-Caption-Generator) and [Site Link](https://ash1998.github.io/Doodle-gan/)
 
 ### 5. The BOT
 - The AI "THE-BOT" is a community driven smart bot which is build using flask and Restful API responsive, which gives you a
 Weather, Distance and Your_IP.
 - Tech : `Python` , `HTML`, `Geo-track`
-- [Github](https://github.com/ASH1998/THE-BOT) | [Site Link](https://ash1998.github.io/Doodle-gan/)
+- [Github](https://github.com/ASH1998/THE-BOT) and [Site Link](https://ash1998.github.io/Doodle-gan/)
 
 ### 6. BPUT-APP
 - The AI "THE-BOT" is a community driven smart bot which is build using flask and Restful API responsive, which gives you a
 Weather, Distance and Your_IP.
 - Tech : `Python` , `HTML`, `Selenium`, `ghost-browser`
-- [Github](https://github.com/ASH1998/BPUT-APP) | [Site Link](https://ash1998.github.io/Doodle-gan/)
+- [Github](https://github.com/ASH1998/BPUT-APP) and [Site Link](https://ash1998.github.io/Doodle-gan/)
 
 
 
