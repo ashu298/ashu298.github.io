@@ -181,7 +181,7 @@ Weather, Distance and Your_IP.
   <tr>
     <td class="tg-0pky">Sequence Models</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_sequencemodels_EENSCYPMD9NN.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static//Images/seq.PNG"width=100></img></td>
+    <td class="tg-0pky"><img src="/static/Images/seq.PNG"width=100></img></td>
     <td class="tg-0pky">EENSCYPMD9NN</td>
   </tr>
   <tr>
