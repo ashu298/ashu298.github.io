@@ -1,6 +1,9 @@
-## Ashutosh Mishra
+## Ashutosh Mishra [![HitCount](http://hits.dwyl.io/ASH1998/ash1998.github.io.svg)](http://hits.dwyl.io/ASH1998/ash1998.github.io)   
 <img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Flowers in Chania" width="100">   
 I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.
+
+## Social Media
+[![](https://img.shields.io/badge/Github-ASH1998-brightgreen.svg)](https://github.com/ASH1998) [![](https://img.shields.io/badge/Quora-Ashutosh-red.svg)](https://www.quora.com/profile/Ashutosh-Mishra-361) [![](https://img.shields.io/badge/LinkedIN-Ashutosh-blue.svg)](https://www.linkedin.com/in/ashutosh-mishra-a1ba01142/) [![](https://img.shields.io/badge/Kaggle-ashutosh1998-%2300FFFF.svg)](https://www.kaggle.com/ashutoshmishra1998) [![](https://img.shields.io/badge/StackOverflow-Ashutosh-orange.svg)](https://stackoverflow.com/users/7454706/ashutosh-mishra)
 
 ## BuzzWords
 
