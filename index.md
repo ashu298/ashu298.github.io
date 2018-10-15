@@ -1,11 +1,15 @@
-## Ashutosh Mishra [![HitCount](http://hits.dwyl.io/ASH1998/ash1998.github.io.svg)](http://hits.dwyl.io/ASH1998/ash1998.github.io)   
+# Ashutosh Mishra [![HitCount](http://hits.dwyl.io/ASH1998/ash1998.github.io.svg)](http://hits.dwyl.io/ASH1998/ash1998.github.io)   
 <img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Flowers in Chania" width="100">   
-I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.
+I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.   
+Contact :
+- MahavirNagar, Bhubaneshwar, Odisha
+- Phone : (+91)8018-642428    
+- Email : [prog.mishra@gmail.com](prog.mishra@gmail.com)
 
 ## Social Media
 [![](https://img.shields.io/badge/Github-ASH1998-brightgreen.svg)](https://github.com/ASH1998) [![](https://img.shields.io/badge/Quora-Ashutosh-red.svg)](https://www.quora.com/profile/Ashutosh-Mishra-361) [![](https://img.shields.io/badge/LinkedIN-Ashutosh-blue.svg)](https://www.linkedin.com/in/ashutosh-mishra-a1ba01142/) [![](https://img.shields.io/badge/Kaggle-ashutosh1998-%2300FFFF.svg)](https://www.kaggle.com/ashutoshmishra1998) [![](https://img.shields.io/badge/StackOverflow-Ashutosh-orange.svg)](https://stackoverflow.com/users/7454706/ashutosh-mishra)
 
-## BuzzWords
+## Skills
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
@@ -23,9 +27,6 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
     <th class="tg-s268">Image Processing</th>
     <th class="tg-0lax">Data Visualization</th>
     <th class="tg-0lax">Cloud Computing</th>
-    <th class="tg-0lax">OpenCV</th>
-    <th class="tg-0lax">Django</th>
-    <th class="tg-0lax">Flask</th>
     <th class="tg-iur0">SQL</th>
     <th class="tg-0lax">Python</th>
     <th class="tg-0lax">Java</th>
@@ -33,7 +34,78 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
   </tr>
 </table>    
 
+## Frameworks
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg .tg-s268{text-align:left}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-iur0{border-color:#34ff34;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-s268">Tensorflow</th>
+    <th class="tg-s268">Pytorch</th>
+    <th class="tg-s268">NLTK</th>
+    <th class="tg-s268">Keras</th>
+    <th class="tg-s268">SKLearn</th>
+    <th class="tg-0lax">OpenCV</th>
+    <th class="tg-0lax">MongoDB</th>
+    <th class="tg-iur0">Flask</th>
+    <th class="tg-0lax">Django</th>
+  </tr>
+</table>   
+
 ## Work Experience
+
+### Data Science Intern
+### IntelIndexer LLC (01/2018-03/2018)
+- Process economic/finance domain algorithms and methods for feature extraction.
+- Use LSTM, Dynamic Time Wraping, Clustering and scalable methods to build prediction system.
+- Create a GDP prediction system with 5% more accurate than IMF.
+
+### Machine Learning Intern
+### TINO IQ (04/2018-07/2018)
+- Financial data modeling.
+- Statistical analysis on long term prediction for hedge-funds like S&P 500 with 92% accuracy.
+- Testing and developing models for stock price prediction.
+
+## Projects
+### 1. Unique Doodle Generation
+- Generating new doodle images for different images using Generative Adversarial Networks.
+- Tech : `Python` , `Deep Learning`, `GANs`
+- [Github](https://github.com/ASH1998/Doodle-gan) | [Site Link](https://ash1998.github.io/Doodle-gan/)
+
+### 2. Deep Representation of Textual descriptions
+- Generating images from text descriptions using Attention-GAN and Stack-GAN.
+- Tech : `Python` , `Deep Learning`, `AttnGAN`, `StackGAN`,   `Image Processing`
+- [Github](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions) | [Site Link](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
+
+### 3. Face_eyes_smile-detection
+-  OpenCV application for face, eyes, smile detection. Building MSI/.exe for windows.
+- Tech : `Python` , `OpenCV`, `cx-freeze`
+- [Github](https://github.com/ASH1998/Face_eyes_smile-detection) | [Site Link](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
+
+### 4. Image Caption Generator
+- Generate Captions for images using VGG16 network.
+- Tech : `Python` , `Deep Learning`, `torch`, `bi-CNN`
+- [Github](https://github.com/ASH1998/Image-Caption-Generator) | [Site Link](https://ash1998.github.io/Doodle-gan/)
+
+### 5. The BOT
+- The AI "THE-BOT" is a community driven smart bot which is build using flask and Restful API responsive, which gives you a
+Weather, Distance and Your_IP.
+- Tech : `Python` , `HTML`, `Geo-track`
+- [Github](https://github.com/ASH1998/THE-BOT) | [Site Link](https://ash1998.github.io/Doodle-gan/)
+
+### 6. BPUT-APP
+- The AI "THE-BOT" is a community driven smart bot which is build using flask and Restful API responsive, which gives you a
+Weather, Distance and Your_IP.
+- Tech : `Python` , `HTML`, `Selenium`, `ghost-browser`
+- [Github](https://github.com/ASH1998/BPUT-APP) | [Site Link](https://ash1998.github.io/Doodle-gan/)
+
 
 
 ## Education
@@ -71,8 +143,6 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
   </tr>
 </table>
 
-## Projects
-
 
 ## Certificates
 
@@ -93,31 +163,31 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
   <tr>
     <td class="tg-0pky">Neural Networks and Deep Learning</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_neural_networks_NSLLPHB73CK8.pdf">here</a></td>
-    <td class="tg-0pky">496.82</td>
+    <td class="tg-0pky"><img src="static/Images/nn.PNG" width=100 border=2></img></td>
     <td class="tg-0pky">NSLLPHB73CK8<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">Hyperparameter tuning, Regularization<br>and Optimization</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_improving_98D2WX2TEW3S.pdf">here</a></td>
-    <td class="tg-0pky">39.82<br></td>
+    <td class="tg-0pky"><img src="static/Images/hyper.PNG" border=2 width=100></img><br></td>
     <td class="tg-0pky">98D2WX2TEW3S</td>
   </tr>
   <tr>
     <td class="tg-0pky">Structuring Machine Learning Projects</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_Structuring_Machine_Learning_Projects_CPRG2V273V8W.pdf">here</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><img src="static/Images/structure.PNG" border=2 width=100></img></td>
     <td class="tg-0pky">CPRG2V273V8W</td>
   </tr>
   <tr>
     <td class="tg-0pky">Sequence Models</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_sequencemodels_EENSCYPMD9NN.pdf">here</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><img src="static/Images/seq.PNG" border=2 width=100></img></td>
     <td class="tg-0pky">EENSCYPMD9NN</td>
   </tr>
   <tr>
     <td class="tg-0pky">Feature Engineering</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static/Certificates/Coursera_feature_engineering_NW9PUATT9BB3.pdf">here</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><img src="static/Images/feature.PNG" border=2 width=100></img></td>
     <td class="tg-0pky">NW9PUATT9BB3</td>
   </tr>
   <tr>
@@ -127,8 +197,8 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
     <td class="tg-0pky"></td>
   </tr>
 </table>
-### Udemy        
-<img src="static/Certificates/udemycertificate.jpg" width="200">
+### B. Udemy        
+<img src="static/Certificates/udemycertificate.jpg"  width="200">
 
 ## Accomplishments
 
