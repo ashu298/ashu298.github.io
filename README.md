@@ -17,31 +17,7 @@ I am Ashutosh Mishra, a ML enthusiast
 
 
 
-+---------------------------------------+--------+--------+--------------+
-| Certificate                           | Link   | Image  | License No.  |
-+---------------------------------------+--------+--------+--------------+
-| Neural Networks and Deep Learning     | 984.2  | 496.82 | NSLLPHB73CK8 |
-+---------------------------------------+--------+--------+--------------+
-| Hyperparameter tuning, Regularization | 130.84 | 39.82  | 98D2WX2TEW3S |
-| and Optimization                      |        |        |              |
-+---------------------------------------+--------+--------+--------------+
-| Structuring Machine Learning Projects |        |        | CPRG2V273V8W |
-+---------------------------------------+--------+--------+--------------+
-| Sequence Models                       |        |        | EENSCYPMD9NN |
-+---------------------------------------+--------+--------+--------------+
-| Feature Engineering                   |        |        | NW9PUATT9BB3 |
-+---------------------------------------+--------+--------+--------------+
-|                                       |        |        |              |
-+---------------------------------------+--------+--------+--------------+
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-0pky">Certificate</th>
