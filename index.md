@@ -1,5 +1,47 @@
 ## Ashutosh Mishra
-I am Ashutosh Mishra, a ML enthusiast
+<img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Flowers in Chania" width="100">   
+I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.
+
+## BuzzWords
+
+## Work Experience
+
+## Education
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg .tg-s268{text-align:left}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-s268">Certification</th>
+    <th class="tg-s268">Subject</th>
+    <th class="tg-s268">Date Completed</th>
+    <th class="tg-s268">University/School</th>
+  </tr>
+  <tr>
+    <td class="tg-s268">Bachelor of Technology(B.Tech)</td>
+    <td class="tg-s268">Computer Science Engineering and Applications</td>
+    <td class="tg-s268">2019</td>
+    <td class="tg-s268">Indira Gandhi Instt. of Technology</td>
+  </tr>
+  <tr>
+    <td class="tg-s268">High School</td>
+    <td class="tg-s268">Computer Science</td>
+    <td class="tg-s268">2015</td>
+    <td class="tg-s268">DAV Public School, PKT</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Secondary</td>
+    <td class="tg-0lax">Science</td>
+    <td class="tg-0lax">2013</td>
+    <td class="tg-0lax">DAV Public School, GC</td>
+  </tr>
+</table>
+
+## Projects
 
 ## Certificates
 
