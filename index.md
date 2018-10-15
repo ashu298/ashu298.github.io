@@ -202,6 +202,8 @@ Weather, Distance and Your_IP.
 
 <img src="static/Images/feature.PNG" width=100>
 
+<img src="static/feature.PNG" width=100>
+
 ## Accomplishments
 
 - TCS IT quiz Qualifier
