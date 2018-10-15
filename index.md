@@ -1,6 +1,8 @@
 # Ashutosh Mishra [![HitCount](http://hits.dwyl.io/ASH1998/ash1998.github.io.svg)](http://hits.dwyl.io/ASH1998/ash1998.github.io)   
 <img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Ashutosh" width="150" border="2">   
 I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.   
+
+
 Contact :
 - MahavirNagar, Bhubaneshwar, Odisha
 - Phone : (+91)8018-642428    
@@ -160,31 +162,31 @@ Weather, Distance and Your_IP.
   </tr>
   <tr>
     <td class="tg-0pky">Neural Networks and Deep Learning</td>
-    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_neural_networks_NSLLPHB73CK8.pdf">here</a></td>
+    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_neural_networks_NSLLPHB73CK8.pdf">View as PDF</a></td>
     <td class="tg-0pky"><img src="static/nn.jpg"  width="100"></td>
     <td class="tg-0pky">NSLLPHB73CK8<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">Hyperparameter tuning, Regularization<br>and Optimization</td>
-    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_improving_98D2WX2TEW3S.pdf">here</a></td>
+    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_improving_98D2WX2TEW3S.pdf">View as PDF</a></td>
     <td class="tg-0pky"><img src="static/hyper.jpg"  width="100"><br></td>
     <td class="tg-0pky">98D2WX2TEW3S</td>
   </tr>
   <tr>
     <td class="tg-0pky">Structuring Machine Learning Projects</td>
-    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_Structuring_Machine_Learning_Projects_CPRG2V273V8W.pdf">here</a></td>
+    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_Structuring_Machine_Learning_Projects_CPRG2V273V8W.pdf">View as PDF</a></td>
     <td class="tg-0pky"><img src="static/structure.jpg"  width="100"></td>
     <td class="tg-0pky">CPRG2V273V8W</td>
   </tr>
   <tr>
     <td class="tg-0pky">Sequence Models</td>
-    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_sequencemodels_EENSCYPMD9NN.pdf">here</a></td>
+    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_sequencemodels_EENSCYPMD9NN.pdf">View as PDF</a></td>
     <td class="tg-0pky"><img src="static/seq.jpg" border="4" width="100"></td>
     <td class="tg-0pky">EENSCYPMD9NN</td>
   </tr>
   <tr>
     <td class="tg-0pky">Feature Engineering</td>
-    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static/Certificates/Coursera_feature_engineering_NW9PUATT9BB3.pdf">here</a></td>
+    <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static/Certificates/Coursera_feature_engineering_NW9PUATT9BB3.pdf">View as PDF</a></td>
     <td class="tg-0pky"><img src="static/feature.jpg"  border="4" width="100"></td>
     <td class="tg-0pky">NW9PUATT9BB3</td>
   </tr>
