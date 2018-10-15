@@ -1,0 +1,10 @@
+| Certificate                                            | Link   | Image  | License No.  |
+|--------------------------------------------------------|--------|--------|--------------|
+| Neural Networks and Deep Learning                      | 984.2  | 496.82 | NSLLPHB73CK8 |
+| Hyperparameter tuning, Regularization and Optimization | 130.84 | 39.82  | 98D2WX2TEW3S |
+| Structuring Machine Learning Projects                  |        |        | CPRG2V273V8W |
+| Sequence Models                                        |        |        | EENSCYPMD9NN |
+| Feature Engineering                                    |        |        | NW9PUATT9BB3 |
+|                                                        |        |        |              |
+
+
