@@ -1,5 +1,5 @@
 # Ashutosh Mishra [![HitCount](http://hits.dwyl.io/ASH1998/ash1998.github.io.svg)](http://hits.dwyl.io/ASH1998/ash1998.github.io)   
-<img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Flowers in Chania" width="100">   
+<img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Ashutosh" width="150" border=2>   
 I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.   
 Contact :
 - MahavirNagar, Bhubaneshwar, Odisha
@@ -62,13 +62,13 @@ Contact :
 ## Work Experience
 
 ### 1. Data Science Intern
-### IntelIndexer LLC (01/2018-03/2018)
+###    IntelIndexer LLC (01/2018-03/2018)
 - Process economic/finance domain algorithms and methods for feature extraction.
 - Use LSTM, Dynamic Time Wraping, Clustering and scalable methods to build prediction system.
 - Create a GDP prediction system with 5% more accurate than IMF.
 
 ### 2. Machine Learning Intern
-### TINO IQ (04/2018-07/2018)
+###    TINO IQ (04/2018-07/2018)
 - Financial data modeling.
 - Statistical analysis on long term prediction for hedge-funds like S&P 500 with 92% accuracy.
 - Testing and developing models for stock price prediction.
@@ -127,7 +127,7 @@ Weather, Distance and Your_IP.
     <td class="tg-s268">Bachelor of Technology(B.Tech)</td>
     <td class="tg-s268">Computer Science Engineering and Applications</td>
     <td class="tg-s268">2019</td>
-    <td class="tg-s268">Indira Gandhi Instt. of Technology</td>
+    <td class="tg-s268">Indira Gandhi Instt. of Technology(IGIT)</td>
   </tr>
   <tr>
     <td class="tg-s268">High School</td>
@@ -181,7 +181,7 @@ Weather, Distance and Your_IP.
   <tr>
     <td class="tg-0pky">Sequence Models</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_sequencemodels_EENSCYPMD9NN.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/seq.jpg"  width="100"></td>
+    <td class="tg-0pky"><img src="static/seq.jpg" border=2 width="100"></td>
     <td class="tg-0pky">EENSCYPMD9NN</td>
   </tr>
   <tr>
