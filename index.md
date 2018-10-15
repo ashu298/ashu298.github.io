@@ -25,12 +25,12 @@ Contact :
     <th class="tg-s268">Deep Learning</th>
     <th class="tg-s268">Natural Language Processing</th>
     <th class="tg-s268">Image Processing</th>
-    <th class="tg-0lax">Data Visualization</th>
-    <th class="tg-0lax">Cloud Computing</th>
-    <th class="tg-iur0">SQL</th>
-    <th class="tg-0lax">Python</th>
-    <th class="tg-0lax">Java</th>
-    <th class="tg-0lax">C++</th>
+    <th class="tg-s268">Data Visualization</th>
+    <th class="tg-s268">Cloud Computing</th>
+    <th class="tg-s268">SQL</th>
+    <th class="tg-s268">Python</th>
+    <th class="tg-s268">Java</th>
+    <th class="tg-s268">C++</th>
   </tr>
 </table>    
 
@@ -52,10 +52,10 @@ Contact :
     <th class="tg-s268">NLTK</th>
     <th class="tg-s268">Keras</th>
     <th class="tg-s268">SKLearn</th>
-    <th class="tg-0lax">OpenCV</th>
-    <th class="tg-0lax">MongoDB</th>
-    <th class="tg-iur0">Flask</th>
-    <th class="tg-0lax">Django</th>
+    <th class="tg-s268">OpenCV</th>
+    <th class="tg-s268">MongoDB</th>
+    <th class="tg-s268">Flask</th>
+    <th class="tg-s268">Django</th>
   </tr>
 </table>   
 
@@ -74,33 +74,33 @@ Contact :
 - Testing and developing models for stock price prediction.
 
 ## Projects
-### 1. Unique Doodle Generation
+### 1. [Unique Doodle Generation](https://github.com/ASH1998/Doodle-gan)
 - Generating new doodle images for different images using Generative Adversarial Networks.
 - Tech : `Python` , `Deep Learning`, `GANs`
 - [Github](https://github.com/ASH1998/Doodle-gan) and [Site Link](https://ash1998.github.io/Doodle-gan/)
 
-### 2. Deep Representation of Textual descriptions
+### 2. [Deep Representation of Textual descriptions](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions)
 - Generating images from text descriptions using Attention-GAN and Stack-GAN.
 - Tech : `Python` , `Deep Learning`, `AttnGAN`, `StackGAN`,   `Image Processing`
 - [Github](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions) and [Site Link](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
 
-### 3. Face_eyes_smile-detection
+### 3. [Face_eyes_smile-detection](https://github.com/ASH1998/Face_eyes_smile-detection)
 -  OpenCV application for face, eyes, smile detection. Building MSI/.exe for windows.
 - Tech : `Python` , `OpenCV`, `cx-freeze`
 - [Github](https://github.com/ASH1998/Face_eyes_smile-detection) and [Site Link](https://ash1998.github.io/Deep-Representation-of-Visual-Descriptions/)
 
-### 4. Image Caption Generator
+### 4. [Image Caption Generator](https://github.com/ASH1998/Image-Caption-Generator)
 - Generate Captions for images using VGG16 network.
 - Tech : `Python` , `Deep Learning`, `torch`, `bi-CNN`
 - [Github](https://github.com/ASH1998/Image-Caption-Generator) and [Site Link](https://ash1998.github.io/Doodle-gan/)
 
-### 5. The BOT
+### 5. [The BOT](https://github.com/ASH1998/THE-BOT)
 - The AI "THE-BOT" is a community driven smart bot which is build using flask and Restful API responsive, which gives you a
 Weather, Distance and Your_IP.
 - Tech : `Python` , `HTML`, `Geo-track`
 - [Github](https://github.com/ASH1998/THE-BOT) and [Site Link](https://ash1998.github.io/Doodle-gan/)
 
-### 6. BPUT-APP
+### 6. [BPUT-APP](https://github.com/ASH1998/BPUT-APP)
 - The AI "THE-BOT" is a community driven smart bot which is build using flask and Restful API responsive, which gives you a
 Weather, Distance and Your_IP.
 - Tech : `Python` , `HTML`, `Selenium`, `ghost-browser`
