@@ -1,4 +1,4 @@
-## Ashutosh Mishra :star2:
+## Ashutosh Mishra
 <img src="https://avatars3.githubusercontent.com/u/23384411?s=460&v=4" alt="Flowers in Chania" width="100">   
 I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.
 
@@ -31,6 +31,7 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
 </table>    
 
 ## Work Experience
+
 
 ## Education
 <style type="text/css">
@@ -68,6 +69,7 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
 </table>
 
 ## Projects
+
 
 ## Certificates
 
@@ -122,5 +124,10 @@ I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine 
     <td class="tg-0pky"></td>
   </tr>
 </table>
-### B. Udemy        
+### Udemy        
 <img src="static/Certificates/udemycertificate.jpg" width="200">
+
+## Accomplishments
+
+- TCS IT quiz Qualifier
+- Finalist for 1st Smart India Hackathon
