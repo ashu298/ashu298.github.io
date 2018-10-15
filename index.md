@@ -198,11 +198,12 @@ Weather, Distance and Your_IP.
   </tr>
 </table>
 ### B. Udemy        
-<img src="static/nn.jpg"  width="200"></img>
+<img src="static/Certificates/udemycertificate.jpg"  width="400"></img>
 
-<img src="static/Images/feature.PNG" width=100></img>
+### new
+<img src="static/Images/feature.PNG" width=200></img>
 
-<img src="static/feature.jpg" width=100></img>
+<img src="static/feature.jpg" width=200></img>
 
 ## Accomplishments
 
