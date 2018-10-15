@@ -179,13 +179,13 @@ Weather, Distance and Your_IP.
   <tr>
     <td class="tg-0pky">Sequence Models</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static%5CCertificates%5CCoursera_sequencemodels_EENSCYPMD9NN.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/seq.jpg" border="2" width="100"></td>
+    <td class="tg-0pky"><img src="static/seq.jpg" border="4" width="100"></td>
     <td class="tg-0pky">EENSCYPMD9NN</td>
   </tr>
   <tr>
     <td class="tg-0pky">Feature Engineering</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static/Certificates/Coursera_feature_engineering_NW9PUATT9BB3.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/feature.jpg"  width="100"></td>
+    <td class="tg-0pky"><img src="static/feature.jpg"  border="4" width="100"></td>
     <td class="tg-0pky">NW9PUATT9BB3</td>
   </tr>
   <tr>
@@ -196,7 +196,7 @@ Weather, Distance and Your_IP.
   </tr>
 </table>
 ### B. Udemy        
-<img src="static/Certificates/udemycertificate.jpg"  width="200">
+<img src="static/Certificates/udemycertificate.jpg" border="4"  width="200">
 
 
 ## Accomplishments
