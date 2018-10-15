@@ -187,7 +187,7 @@ Weather, Distance and Your_IP.
   <tr>
     <td class="tg-0pky">Feature Engineering</td>
     <td class="tg-0pky"><a href="https://github.com/ASH1998/ash1998.github.io/blob/master/static/Certificates/Coursera_feature_engineering_NW9PUATT9BB3.pdf">here</a></td>
-    <td class="tg-0pky"><img src="static/Images/feature.png"width=100></img></td>
+    <td class="tg-0pky"><img src="static/Certificates/udemycertificate.jpg"  width="400"></img></td>
     <td class="tg-0pky">NW9PUATT9BB3</td>
   </tr>
   <tr>
@@ -198,10 +198,10 @@ Weather, Distance and Your_IP.
   </tr>
 </table>
 ### B. Udemy        
-<img src="static/Certificates/udemycertificate.jpg"  width="400"></img>
+<img src="static/Certificates/udemycertificate.jpg"  width="400">
 
 ### new
-<img src="static/Images/feature.PNG" width=200></img>
+<img src="static/Certificates/udemycertificate.jpg"  width="400">
 
 <img src="static/feature.jpg" width=200></img>
 
