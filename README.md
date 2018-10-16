@@ -170,7 +170,7 @@ Weather, Distance and Your_IP.
     <td class="tg-0pky"></td>
   </tr>
 </table>
-### B. Udemy        
+### B. Udemy on ML Bootcamp       
 <img src="static/Certificates/udemycertificate.jpg" border="4"  width="200">
 
 
